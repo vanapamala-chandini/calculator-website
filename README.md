@@ -1,2 +1,2 @@
-# calculator-website
-Calculator app using HTML , CSS , Javascript
+# Calculator Website
+The Calculator app is developed using HTML , CSS , Javascript.
